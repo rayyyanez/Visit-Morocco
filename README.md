@@ -1,0 +1,1 @@
+I always wanted to create a website that summarizes all foreigners' thoughts about visiting my country, Morocco. For that, I created this website that gives the full picture before visiting, based on other tourists' perspectives from several points of view. No AI was used at all! Fully built with HTML and CSS (Static).
